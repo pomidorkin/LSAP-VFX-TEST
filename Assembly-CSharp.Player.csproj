@@ -56,19 +56,20 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\MyAudioSystem\VisualizationText.cs" />
     <Compile Include="Assets\Scripts\SimpleCameraController.cs" />
+    <Compile Include="Assets\MyAudioSystem\MyParamCube.cs" />
+    <Compile Include="Assets\VFXPropertyControlTest.cs" />
+    <Compile Include="Assets\MyAudioSystem\AudioPeer.cs" />
+    <Compile Include="Assets\MyAudioSystem\ParamCube.cs" />
     <Compile Include="Assets\LASP\Test\LissajousRenderer.cs" />
     <Compile Include="Assets\LASP\Test\WaveformRenderer.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
+    <Compile Include="Assets\MyAudioSystem\AudioManager.cs" />
     <Compile Include="Assets\LASP\Test\DeviceSelector.cs" />
     <Compile Include="Assets\LASP\Test\DeviceList.cs" />
     <Compile Include="Assets\LASP\Test\SpectrumGraph.cs" />
-    <Compile Include="Assets\VFXPropertyControlTest.cs" />
-    <Compile Include="Assets\MyAudioSystem\MyParamCube.cs" />
-    <Compile Include="Assets\MyAudioSystem\AudioPeer.cs" />
-    <Compile Include="Assets\MyAudioSystem\AudioManager.cs" />
-    <Compile Include="Assets\MyAudioSystem\VisualizationText.cs" />
-    <Compile Include="Assets\MyAudioSystem\ParamCube.cs" />
+    <Compile Include="Assets\OrbRatator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\LASP\Test\SpectrumColor.shader" />

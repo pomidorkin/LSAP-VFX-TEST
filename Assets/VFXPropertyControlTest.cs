@@ -19,7 +19,7 @@ public class VFXPropertyControlTest : MonoBehaviour
             bandMax = currentBand;
         }
 
-        testVfx.SetFloat("Rate", (currentBand / bandMax));
+        testVfx.SetFloat("Jiggle", ((currentBand / bandMax) * 6f));
     }/*
     // Start is called before the first frame update
     void Start()

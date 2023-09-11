@@ -5,159 +5,21 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638299346935493013
-    m_Hash: 3611969567
+      ticks: 638300437647863045
+    m_Hash: 1748218591
   m_LockFileStatus:
     m_FilePath: D:/UnityProjects/VFXTest/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638299347432108655
-    m_Hash: 2382154729
+      ticks: 638300437647942789
+    m_Hash: 2239694830
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
   m_Packages:
     m_ResolvedPackages:
-    - packageId: org.nuget.system.memory@4.5.3
-      testable: 0
-      isDirectDependency: 1
-      version: 4.5.3
-      source: 1
-      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\org.nuget.system.memory@4.5.3
-      assetPath: Packages/org.nuget.system.memory
-      name: org.nuget.system.memory
-      displayName: System.Memory (NuGet)
-      author:
-        name: Microsoft
-        email: 
-        url: 
-      category: 
-      type: 
-      description: "Provides types for efficient representation and pooling of managed,
-        stack, and native memory segments and sequences of such segments, along with
-        primitives to parse and format UTF-8 encoded text stored in those memory
-        segments.\n\nCommonly Used Types:\nSystem.Span\nSystem.ReadOnlySpan\nSystem.Memory\nSystem.ReadOnlyMemory\nSystem.Buffers.MemoryPool\nSystem.Buffers.ReadOnlySequence\nSystem.Buffers.Text.Utf8Parser\nSystem.Buffers.Text.Utf8Formatter\n
-        \nc6cf790234e063b855fcdb50f3fb1b3cfac73275 \nWhen using NuGet 3.x this package
-        requires at least version 3.4."
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 4.5.0
-        - 4.5.1
-        - 4.5.2
-        - 4.5.3
-        - 4.5.4
-        - 4.5.5
-        compatible:
-        - 4.5.0
-        - 4.5.1
-        - 4.5.2
-        - 4.5.3
-        - 4.5.4
-        - 4.5.5
-        verified: 
-      dependencies:
-      - name: org.nuget.system.buffers
-        version: 4.4.0
-      - name: org.nuget.system.numerics.vectors
-        version: 4.4.0
-      - name: org.nuget.system.runtime.compilerservices.unsafe
-        version: 4.5.2
-      resolvedDependencies:
-      - name: org.nuget.system.buffers
-        version: 4.4.0
-      - name: org.nuget.system.numerics.vectors
-        version: 4.4.0
-      - name: org.nuget.system.runtime.compilerservices.unsafe
-        version: 4.5.2
-      keywords: []
-      registry:
-        id: scoped:Unity NuGet
-        name: Unity NuGet
-        url: https://unitynuget-registry.azurewebsites.net
-        scopes:
-        - org.nuget
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 636934347349970000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: 
-        url: 
-        revision: 
-        path: 
-    - packageId: jp.keijiro.laspvfx@1.0.2
-      testable: 0
-      isDirectDependency: 1
-      version: 1.0.2
-      source: 1
-      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\jp.keijiro.laspvfx@1.0.2
-      assetPath: Packages/jp.keijiro.laspvfx
-      name: jp.keijiro.laspvfx
-      displayName: LASP VFX
-      author:
-        name: Keijiro Takahashi
-        email: 
-        url: 
-      category: 
-      type: 
-      description: VFX extensions for LASP
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 1.0.0
-        - 1.0.1
-        - 1.0.2
-        compatible:
-        - 1.0.0
-        - 1.0.1
-        - 1.0.2
-        verified: 
-      dependencies:
-      - name: jp.keijiro.lasp
-        version: 2.1.5
-      resolvedDependencies:
-      - name: jp.keijiro.lasp
-        version: 2.1.5
-      - name: com.unity.burst
-        version: 1.4.4
-      - name: com.unity.mathematics
-        version: 1.2.1
-      - name: jp.keijiro.libsoundio
-        version: 1.0.3
-      keywords:
-      - unity
-      registry:
-        id: scoped:Keijiro
-        name: Keijiro
-        url: https://registry.npmjs.com
-        scopes:
-        - jp.keijiro
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637648927919150000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git+https://github.com/keijiro/LaspVfx.git
-        revision: 
-        path: 
     - packageId: com.unity.collab-proxy@1.15.7
       testable: 0
       isDirectDependency: 1
@@ -385,6 +247,7 @@ m_PackageAssets:
         - 3.0.21
         - 3.0.22
         - 3.0.24
+        - 3.0.25
         compatible:
         - 1.0.2
         - 1.0.6
@@ -424,6 +287,7 @@ m_PackageAssets:
         - 3.0.21
         - 3.0.22
         - 3.0.24
+        - 3.0.25
         verified: 2.0.7
       dependencies:
       - name: com.unity.test-framework
@@ -502,6 +366,7 @@ m_PackageAssets:
         - 2.0.17
         - 2.0.18
         - 2.0.20
+        - 2.0.21
         compatible:
         - 1.0.2
         - 1.0.3
@@ -525,7 +390,8 @@ m_PackageAssets:
         - 2.0.17
         - 2.0.18
         - 2.0.20
-        verified: 2.0.20
+        - 2.0.21
+        verified: 2.0.21
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.9
@@ -631,6 +497,125 @@ m_PackageAssets:
         type: git
         url: git+https://github.com/Unity-Technologies/com.unity.ide.vscode.git
         revision: 1f4f605d5c988cb610c372b5c5216c46cc8f5d30
+        path: 
+    - packageId: com.unity.recorder@2.5.7
+      testable: 0
+      isDirectDependency: 1
+      version: 2.5.7
+      source: 1
+      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\com.unity.recorder@2.5.7
+      assetPath: Packages/com.unity.recorder
+      name: com.unity.recorder
+      displayName: Unity Recorder
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: asset
+      description: 'The Unity Recorder allows you to capture and save data from the
+        Unity Editor during Play Mode: animations, videos, images, audio, and more.'
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.0.0-preview.6
+        - 2.0.1-preview.1
+        - 2.0.2-preview.3
+        - 2.0.3-preview.1
+        - 2.1.0-preview.1
+        - 2.2.0-preview.4
+        - 2.3.0-preview.3
+        - 2.4.0-preview.1
+        - 2.5.0-pre.1
+        - 2.5.2
+        - 2.5.4
+        - 2.5.5
+        - 2.5.7
+        - 2.6.0-exp.3
+        - 2.6.0-exp.4
+        - 3.0.0-pre.1
+        - 3.0.0-pre.2
+        - 3.0.0
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 4.0.0-pre.1
+        - 4.0.0-pre.2
+        - 4.0.0-pre.3
+        - 4.0.0-pre.4
+        - 4.0.0-pre.5
+        - 4.0.0
+        - 4.0.1
+        - 5.0.0-pre.1
+        compatible:
+        - 2.0.0-preview.6
+        - 2.0.1-preview.1
+        - 2.0.2-preview.3
+        - 2.0.3-preview.1
+        - 2.1.0-preview.1
+        - 2.2.0-preview.4
+        - 2.3.0-preview.3
+        - 2.4.0-preview.1
+        - 2.5.0-pre.1
+        - 2.5.2
+        - 2.5.4
+        - 2.5.5
+        - 2.5.7
+        - 2.6.0-exp.3
+        - 2.6.0-exp.4
+        - 3.0.0-pre.1
+        - 3.0.0-pre.2
+        - 3.0.0
+        - 3.0.1
+        - 3.0.2
+        - 3.0.3
+        - 4.0.0-pre.1
+        - 4.0.0-pre.2
+        - 4.0.0-pre.3
+        verified: 2.5.7
+      dependencies:
+      - name: com.unity.timeline
+        version: 1.0.0
+      resolvedDependencies:
+      - name: com.unity.timeline
+        version: 1.4.8
+      - name: com.unity.modules.director
+        version: 1.0.0
+      - name: com.unity.modules.audio
+        version: 1.0.0
+      - name: com.unity.modules.animation
+        version: 1.0.0
+      - name: com.unity.modules.particlesystem
+        version: 1.0.0
+      keywords:
+      - unity
+      - recorder
+      - recording
+      - capture
+      - video
+      - animation
+      - clip
+      - images
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 0
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637717102070000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.recorder.git
+        revision: a59deb20019b176e95dd8efa2f9b41b8e4a0bb96
         path: 
     - packageId: com.unity.render-pipelines.universal@10.8.1
       testable: 0
@@ -1450,6 +1435,144 @@ m_PackageAssets:
         type: git
         url: https://github.com/Unity-Technologies/Graphics.git
         revision: 31a193989d1e4e18ec3dced0f45168f8d2552a9a
+        path: 
+    - packageId: jp.keijiro.laspvfx@1.0.2
+      testable: 0
+      isDirectDependency: 1
+      version: 1.0.2
+      source: 1
+      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\jp.keijiro.laspvfx@1.0.2
+      assetPath: Packages/jp.keijiro.laspvfx
+      name: jp.keijiro.laspvfx
+      displayName: LASP VFX
+      author:
+        name: Keijiro Takahashi
+        email: 
+        url: 
+      category: 
+      type: 
+      description: VFX extensions for LASP
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 1.0.0
+        - 1.0.1
+        - 1.0.2
+        compatible:
+        - 1.0.0
+        - 1.0.1
+        - 1.0.2
+        verified: 
+      dependencies:
+      - name: jp.keijiro.lasp
+        version: 2.1.5
+      resolvedDependencies:
+      - name: jp.keijiro.lasp
+        version: 2.1.5
+      - name: com.unity.burst
+        version: 1.4.4
+      - name: com.unity.mathematics
+        version: 1.2.1
+      - name: jp.keijiro.libsoundio
+        version: 1.0.3
+      keywords:
+      - unity
+      registry:
+        id: scoped:Keijiro
+        name: Keijiro
+        url: https://registry.npmjs.com
+        scopes:
+        - jp.keijiro
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637648927919150000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/keijiro/LaspVfx.git
+        revision: 
+        path: 
+    - packageId: org.nuget.system.memory@4.5.3
+      testable: 0
+      isDirectDependency: 1
+      version: 4.5.3
+      source: 1
+      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\org.nuget.system.memory@4.5.3
+      assetPath: Packages/org.nuget.system.memory
+      name: org.nuget.system.memory
+      displayName: System.Memory (NuGet)
+      author:
+        name: Microsoft
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "Provides types for efficient representation and pooling of managed,
+        stack, and native memory segments and sequences of such segments, along with
+        primitives to parse and format UTF-8 encoded text stored in those memory
+        segments.\n\nCommonly Used Types:\nSystem.Span\nSystem.ReadOnlySpan\nSystem.Memory\nSystem.ReadOnlyMemory\nSystem.Buffers.MemoryPool\nSystem.Buffers.ReadOnlySequence\nSystem.Buffers.Text.Utf8Parser\nSystem.Buffers.Text.Utf8Formatter\n
+        \nc6cf790234e063b855fcdb50f3fb1b3cfac73275 \nWhen using NuGet 3.x this package
+        requires at least version 3.4."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 4.5.0
+        - 4.5.1
+        - 4.5.2
+        - 4.5.3
+        - 4.5.4
+        - 4.5.5
+        compatible:
+        - 4.5.0
+        - 4.5.1
+        - 4.5.2
+        - 4.5.3
+        - 4.5.4
+        - 4.5.5
+        verified: 
+      dependencies:
+      - name: org.nuget.system.buffers
+        version: 4.4.0
+      - name: org.nuget.system.numerics.vectors
+        version: 4.4.0
+      - name: org.nuget.system.runtime.compilerservices.unsafe
+        version: 4.5.2
+      resolvedDependencies:
+      - name: org.nuget.system.buffers
+        version: 4.4.0
+      - name: org.nuget.system.numerics.vectors
+        version: 4.4.0
+      - name: org.nuget.system.runtime.compilerservices.unsafe
+        version: 4.5.2
+      keywords: []
+      registry:
+        id: scoped:Unity NuGet
+        name: Unity NuGet
+        url: https://unitynuget-registry.azurewebsites.net
+        scopes:
+        - org.nuget
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 636934347349970000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: 
+        url: 
+        revision: 
         path: 
     - packageId: com.unity.modules.ai@1.0.0
       testable: 0
@@ -3193,6 +3316,255 @@ m_PackageAssets:
         url: 
         revision: 
         path: 
+    - packageId: org.nuget.system.buffers@4.4.0
+      testable: 0
+      isDirectDependency: 0
+      version: 4.4.0
+      source: 1
+      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\org.nuget.system.buffers@4.4.0
+      assetPath: Packages/org.nuget.system.buffers
+      name: org.nuget.system.buffers
+      displayName: System.Buffers (NuGet)
+      author:
+        name: Microsoft
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "Provides resource pooling of any type for performance-critical
+        applications that allocate and deallocate objects frequently.\n\nCommonly
+        Used Types:\nSystem.Buffers.ArrayPool<T>\n \n8321c729934c0f8be754953439b88e6e1c120c24
+        \nWhen using NuGet 3.x this package requires at least version 3.4."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 4.4.0
+        - 4.5.0
+        - 4.5.1
+        compatible:
+        - 4.4.0
+        - 4.5.0
+        - 4.5.1
+        verified: 
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: scoped:Unity NuGet
+        name: Unity NuGet
+        url: https://unitynuget-registry.azurewebsites.net
+        scopes:
+        - org.nuget
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 636380720751870000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: org.nuget.system.numerics.vectors@4.4.0
+      testable: 0
+      isDirectDependency: 0
+      version: 4.4.0
+      source: 1
+      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\org.nuget.system.numerics.vectors@4.4.0
+      assetPath: Packages/org.nuget.system.numerics.vectors
+      name: org.nuget.system.numerics.vectors
+      displayName: System.Numerics.Vectors (NuGet)
+      author:
+        name: Microsoft
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "Provides hardware-accelerated numeric types, suitable for high-performance
+        processing and graphics applications.\n\nCommonly Used Types:\nSystem.Numerics.Matrix3x2\nSystem.Numerics.Matrix4x4\nSystem.Numerics.Plane\nSystem.Numerics.Quaternion\nSystem.Numerics.Vector2\nSystem.Numerics.Vector3\nSystem.Numerics.Vector4\nSystem.Numerics.Vector\nSystem.Numerics.Vector<T>\n
+        \n8321c729934c0f8be754953439b88e6e1c120c24"
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 4.4.0
+        - 4.5.0
+        compatible:
+        - 4.4.0
+        - 4.5.0
+        verified: 
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: scoped:Unity NuGet
+        name: Unity NuGet
+        url: https://unitynuget-registry.azurewebsites.net
+        scopes:
+        - org.nuget
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 636380723699470000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: org.nuget.system.runtime.compilerservices.unsafe@4.5.2
+      testable: 0
+      isDirectDependency: 0
+      version: 4.5.2
+      source: 1
+      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\org.nuget.system.runtime.compilerservices.unsafe@4.5.2
+      assetPath: Packages/org.nuget.system.runtime.compilerservices.unsafe
+      name: org.nuget.system.runtime.compilerservices.unsafe
+      displayName: System.Runtime.CompilerServices.Unsafe (NuGet)
+      author:
+        name: Microsoft
+        email: 
+        url: 
+      category: 
+      type: 
+      description: "Provides the System.Runtime.CompilerServices.Unsafe class, which
+        provides generic, low-level functionality for manipulating pointers.\n\nCommonly
+        Used Types:\nSystem.Runtime.CompilerServices.Unsafe\n \n02b11eeee1fbc5f3ef43a1452fe07efd25fa1715
+        \nWhen using NuGet 3.x this package requires at least version 3.4."
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 4.4.0
+        - 4.5.0
+        - 4.5.1
+        - 4.5.2
+        - 4.5.3
+        - 4.6.0
+        - 4.7.0
+        - 4.7.1
+        - 5.0.0
+        - 6.0.0
+        compatible:
+        - 4.4.0
+        - 4.5.0
+        - 4.5.1
+        - 4.5.2
+        - 4.5.3
+        - 4.6.0
+        - 4.7.0
+        - 4.7.1
+        - 5.0.0
+        - 6.0.0
+        verified: 
+      dependencies: []
+      resolvedDependencies: []
+      keywords: []
+      registry:
+        id: scoped:Unity NuGet
+        name: Unity NuGet
+        url: https://unitynuget-registry.azurewebsites.net
+        scopes:
+        - org.nuget
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 636740319125430000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: 
+        url: 
+        revision: 
+        path: 
+    - packageId: jp.keijiro.lasp@2.1.5
+      testable: 0
+      isDirectDependency: 0
+      version: 2.1.5
+      source: 1
+      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\jp.keijiro.lasp@2.1.5
+      assetPath: Packages/jp.keijiro.lasp
+      name: jp.keijiro.lasp
+      displayName: LASP
+      author:
+        name: Keijiro Takahashi
+        email: 
+        url: 
+      category: 
+      type: 
+      description: Low-latency audio signal processing plugin for Unity
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 2.0.0
+        - 2.1.0
+        - 2.1.1
+        - 2.1.2
+        - 2.1.3
+        - 2.1.4
+        - 2.1.5
+        - 2.1.6
+        compatible:
+        - 2.0.0
+        - 2.1.0
+        - 2.1.1
+        - 2.1.2
+        - 2.1.3
+        - 2.1.4
+        - 2.1.5
+        - 2.1.6
+        verified: 
+      dependencies:
+      - name: com.unity.burst
+        version: 1.4.4
+      - name: jp.keijiro.libsoundio
+        version: 1.0.3
+      resolvedDependencies:
+      - name: com.unity.burst
+        version: 1.4.4
+      - name: com.unity.mathematics
+        version: 1.2.1
+      - name: jp.keijiro.libsoundio
+        version: 1.0.3
+      keywords:
+      - unity
+      registry:
+        id: scoped:Keijiro
+        name: Keijiro
+        url: https://registry.npmjs.com
+        scopes:
+        - jp.keijiro
+        isDefault: 0
+        capabilities: 0
+      hasRegistry: 1
+      hideInEditor: 1
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637648677122340000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: git+https://github.com/keijiro/Lasp.git
+        revision: 
+        path: 
     - packageId: com.unity.shadergraph@10.8.1
       testable: 0
       isDirectDependency: 0
@@ -3786,335 +4158,6 @@ m_PackageAssets:
         url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
         revision: 4cd880d4fd5c60597629249bf4f324e4c8d7aa2e
         path: 
-    - packageId: jp.keijiro.lasp@2.1.5
-      testable: 0
-      isDirectDependency: 0
-      version: 2.1.5
-      source: 1
-      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\jp.keijiro.lasp@2.1.5
-      assetPath: Packages/jp.keijiro.lasp
-      name: jp.keijiro.lasp
-      displayName: LASP
-      author:
-        name: Keijiro Takahashi
-        email: 
-        url: 
-      category: 
-      type: 
-      description: Low-latency audio signal processing plugin for Unity
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 2.0.0
-        - 2.1.0
-        - 2.1.1
-        - 2.1.2
-        - 2.1.3
-        - 2.1.4
-        - 2.1.5
-        - 2.1.6
-        compatible:
-        - 2.0.0
-        - 2.1.0
-        - 2.1.1
-        - 2.1.2
-        - 2.1.3
-        - 2.1.4
-        - 2.1.5
-        - 2.1.6
-        verified: 
-      dependencies:
-      - name: com.unity.burst
-        version: 1.4.4
-      - name: jp.keijiro.libsoundio
-        version: 1.0.3
-      resolvedDependencies:
-      - name: com.unity.burst
-        version: 1.4.4
-      - name: com.unity.mathematics
-        version: 1.2.1
-      - name: jp.keijiro.libsoundio
-        version: 1.0.3
-      keywords:
-      - unity
-      registry:
-        id: scoped:Keijiro
-        name: Keijiro
-        url: https://registry.npmjs.com
-        scopes:
-        - jp.keijiro
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637648677122340000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: git+https://github.com/keijiro/Lasp.git
-        revision: 
-        path: 
-    - packageId: org.nuget.system.buffers@4.4.0
-      testable: 0
-      isDirectDependency: 0
-      version: 4.4.0
-      source: 1
-      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\org.nuget.system.buffers@4.4.0
-      assetPath: Packages/org.nuget.system.buffers
-      name: org.nuget.system.buffers
-      displayName: System.Buffers (NuGet)
-      author:
-        name: Microsoft
-        email: 
-        url: 
-      category: 
-      type: 
-      description: "Provides resource pooling of any type for performance-critical
-        applications that allocate and deallocate objects frequently.\n\nCommonly
-        Used Types:\nSystem.Buffers.ArrayPool<T>\n \n8321c729934c0f8be754953439b88e6e1c120c24
-        \nWhen using NuGet 3.x this package requires at least version 3.4."
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 4.4.0
-        - 4.5.0
-        - 4.5.1
-        compatible:
-        - 4.4.0
-        - 4.5.0
-        - 4.5.1
-        verified: 
-      dependencies: []
-      resolvedDependencies: []
-      keywords: []
-      registry:
-        id: scoped:Unity NuGet
-        name: Unity NuGet
-        url: https://unitynuget-registry.azurewebsites.net
-        scopes:
-        - org.nuget
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 636380720751870000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: 
-        url: 
-        revision: 
-        path: 
-    - packageId: org.nuget.system.numerics.vectors@4.4.0
-      testable: 0
-      isDirectDependency: 0
-      version: 4.4.0
-      source: 1
-      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\org.nuget.system.numerics.vectors@4.4.0
-      assetPath: Packages/org.nuget.system.numerics.vectors
-      name: org.nuget.system.numerics.vectors
-      displayName: System.Numerics.Vectors (NuGet)
-      author:
-        name: Microsoft
-        email: 
-        url: 
-      category: 
-      type: 
-      description: "Provides hardware-accelerated numeric types, suitable for high-performance
-        processing and graphics applications.\n\nCommonly Used Types:\nSystem.Numerics.Matrix3x2\nSystem.Numerics.Matrix4x4\nSystem.Numerics.Plane\nSystem.Numerics.Quaternion\nSystem.Numerics.Vector2\nSystem.Numerics.Vector3\nSystem.Numerics.Vector4\nSystem.Numerics.Vector\nSystem.Numerics.Vector<T>\n
-        \n8321c729934c0f8be754953439b88e6e1c120c24"
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 4.4.0
-        - 4.5.0
-        compatible:
-        - 4.4.0
-        - 4.5.0
-        verified: 
-      dependencies: []
-      resolvedDependencies: []
-      keywords: []
-      registry:
-        id: scoped:Unity NuGet
-        name: Unity NuGet
-        url: https://unitynuget-registry.azurewebsites.net
-        scopes:
-        - org.nuget
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 636380723699470000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: 
-        url: 
-        revision: 
-        path: 
-    - packageId: org.nuget.system.runtime.compilerservices.unsafe@4.5.2
-      testable: 0
-      isDirectDependency: 0
-      version: 4.5.2
-      source: 1
-      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\org.nuget.system.runtime.compilerservices.unsafe@4.5.2
-      assetPath: Packages/org.nuget.system.runtime.compilerservices.unsafe
-      name: org.nuget.system.runtime.compilerservices.unsafe
-      displayName: System.Runtime.CompilerServices.Unsafe (NuGet)
-      author:
-        name: Microsoft
-        email: 
-        url: 
-      category: 
-      type: 
-      description: "Provides the System.Runtime.CompilerServices.Unsafe class, which
-        provides generic, low-level functionality for manipulating pointers.\n\nCommonly
-        Used Types:\nSystem.Runtime.CompilerServices.Unsafe\n \n02b11eeee1fbc5f3ef43a1452fe07efd25fa1715
-        \nWhen using NuGet 3.x this package requires at least version 3.4."
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 4.4.0
-        - 4.5.0
-        - 4.5.1
-        - 4.5.2
-        - 4.5.3
-        - 4.6.0
-        - 4.7.0
-        - 4.7.1
-        - 5.0.0
-        - 6.0.0
-        compatible:
-        - 4.4.0
-        - 4.5.0
-        - 4.5.1
-        - 4.5.2
-        - 4.5.3
-        - 4.6.0
-        - 4.7.0
-        - 4.7.1
-        - 5.0.0
-        - 6.0.0
-        verified: 
-      dependencies: []
-      resolvedDependencies: []
-      keywords: []
-      registry:
-        id: scoped:Unity NuGet
-        name: Unity NuGet
-        url: https://unitynuget-registry.azurewebsites.net
-        scopes:
-        - org.nuget
-        isDefault: 0
-        capabilities: 0
-      hasRegistry: 1
-      hideInEditor: 1
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 636740319125430000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: 
-        url: 
-        revision: 
-        path: 
-    - packageId: com.unity.searcher@4.3.2
-      testable: 0
-      isDirectDependency: 0
-      version: 4.3.2
-      source: 1
-      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\com.unity.searcher@4.3.2
-      assetPath: Packages/com.unity.searcher
-      name: com.unity.searcher
-      displayName: Searcher
-      author:
-        name: 
-        email: 
-        url: 
-      category: 
-      type: asset
-      description: General search window for use in the Editor. First target use
-        is for GraphView node search.
-      status: 4
-      errors: []
-      versions:
-        all:
-        - 4.0.0-preview
-        - 4.0.0
-        - 4.0.7-preview
-        - 4.0.7
-        - 4.0.8-preview
-        - 4.0.9
-        - 4.1.0-preview
-        - 4.1.0
-        - 4.2.0
-        - 4.3.0
-        - 4.3.1
-        - 4.3.2
-        - 4.6.0-preview
-        - 4.7.0-preview
-        - 4.9.1
-        - 4.9.2
-        compatible:
-        - 4.0.0-preview
-        - 4.0.0
-        - 4.0.7-preview
-        - 4.0.7
-        - 4.0.8-preview
-        - 4.0.9
-        - 4.1.0-preview
-        - 4.1.0
-        - 4.2.0
-        - 4.3.0
-        - 4.3.1
-        - 4.3.2
-        - 4.6.0-preview
-        - 4.7.0-preview
-        - 4.9.1
-        - 4.9.2
-        verified: 4.3.2
-      dependencies: []
-      resolvedDependencies: []
-      keywords:
-      - search
-      - searcher
-      registry:
-        id: main
-        name: 
-        url: https://packages.unity.com
-        scopes: []
-        isDefault: 1
-        capabilities: 7
-      hasRegistry: 1
-      hideInEditor: 0
-      entitlements:
-        isAllowed: 1
-      isAssetStorePackage: 0
-      datePublishedTicks: 637509898070000000
-      documentationUrl: 
-      hasRepository: 1
-      repository:
-        type: git
-        url: https://github.cds.internal.unity3d.com/unity/com.unity.searcher.git
-        revision: 798bfb84c8f09f7788a3a88c3c16d72c50451530
-        path: 
     - packageId: com.unity.burst@1.4.4
       testable: 0
       isDirectDependency: 0
@@ -4438,6 +4481,86 @@ m_PackageAssets:
         type: git
         url: git+https://github.com/keijiro/jp.keijiro.libsoundio.git
         revision: 
+        path: 
+    - packageId: com.unity.searcher@4.3.2
+      testable: 0
+      isDirectDependency: 0
+      version: 4.3.2
+      source: 1
+      resolvedPath: D:\UnityProjects\VFXTest\Library\PackageCache\com.unity.searcher@4.3.2
+      assetPath: Packages/com.unity.searcher
+      name: com.unity.searcher
+      displayName: Searcher
+      author:
+        name: 
+        email: 
+        url: 
+      category: 
+      type: asset
+      description: General search window for use in the Editor. First target use
+        is for GraphView node search.
+      status: 4
+      errors: []
+      versions:
+        all:
+        - 4.0.0-preview
+        - 4.0.0
+        - 4.0.7-preview
+        - 4.0.7
+        - 4.0.8-preview
+        - 4.0.9
+        - 4.1.0-preview
+        - 4.1.0
+        - 4.2.0
+        - 4.3.0
+        - 4.3.1
+        - 4.3.2
+        - 4.6.0-preview
+        - 4.7.0-preview
+        - 4.9.1
+        - 4.9.2
+        compatible:
+        - 4.0.0-preview
+        - 4.0.0
+        - 4.0.7-preview
+        - 4.0.7
+        - 4.0.8-preview
+        - 4.0.9
+        - 4.1.0-preview
+        - 4.1.0
+        - 4.2.0
+        - 4.3.0
+        - 4.3.1
+        - 4.3.2
+        - 4.6.0-preview
+        - 4.7.0-preview
+        - 4.9.1
+        - 4.9.2
+        verified: 4.3.2
+      dependencies: []
+      resolvedDependencies: []
+      keywords:
+      - search
+      - searcher
+      registry:
+        id: main
+        name: 
+        url: https://packages.unity.com
+        scopes: []
+        isDefault: 1
+        capabilities: 7
+      hasRegistry: 1
+      hideInEditor: 0
+      entitlements:
+        isAllowed: 1
+      isAssetStorePackage: 0
+      datePublishedTicks: 637509898070000000
+      documentationUrl: 
+      hasRepository: 1
+      repository:
+        type: git
+        url: https://github.cds.internal.unity3d.com/unity/com.unity.searcher.git
+        revision: 798bfb84c8f09f7788a3a88c3c16d72c50451530
         path: 
     - packageId: com.unity.mathematics@1.2.1
       testable: 0
